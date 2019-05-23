@@ -7,7 +7,6 @@ public class Hello {
 		Person p = new Person("Doukhemis", "Dib", 27 );
 				
 		System.out.println(p);
-		System.out.println("Hello World");
 
 	}
 

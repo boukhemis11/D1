@@ -52,7 +52,7 @@ public class Person {
 
 	@Override
 	public String toString() {
-		return "Name : " + getName() + " Last Name : " + getLastName() + " Age : " + getAge();
+		return " Name : " + getName() + " Last Name : " + getLastName() + " Age : " + getAge();
 	}
 	
 	
